@@ -330,4 +330,4 @@ R packages
 
 Script
 
-> Cécile Lecampion. 2021. Script to perform statistical analysis according to data distribution and draw boxplot and barplot of the data. 
+> Cécile Lecampion. 2021. Script to perform statistical analysis according to data distribution and draw boxplot and barplot of the data. https://github.com/cecile-lecampion/basic-stats-column
